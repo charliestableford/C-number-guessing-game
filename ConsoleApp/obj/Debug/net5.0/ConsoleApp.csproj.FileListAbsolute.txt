@@ -1,0 +1,15 @@
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/bin/Debug/net5.0/ConsoleApp.deps.json
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.json
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.dev.json
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/bin/Debug/net5.0/ConsoleApp.dll
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/bin/Debug/net5.0/ref/ConsoleApp.dll
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/bin/Debug/net5.0/ConsoleApp.pdb
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csprojAssemblyReference.cache
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfo.cs
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.dll
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ref/ConsoleApp.dll
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.pdb
+/Applications/MAMP/htdocs/C#NumberGuessingGame/ConsoleApp/obj/Debug/net5.0/ConsoleApp.genruntimeconfig.cache
